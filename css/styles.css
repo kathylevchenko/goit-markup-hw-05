@@ -661,7 +661,9 @@ h3 {
   outline: transparent;
   transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-
+.review-form-field-wrapper {
+  margin-bottom: 8px;
+}
 .form-person-icon {
   position: absolute;
   top: 50%;
@@ -758,7 +760,7 @@ h3 {
 }
 
 .review-form-checkbox-wrapper {
-  margin-bottom: 8px;
+  margin-bottom: 24px;
 }
 .review-form-btn {
   display: block;
