@@ -629,8 +629,9 @@ h3 {
 .modal-close-btn:hover,
 .modal-close-btn:focus {
   fill: #ffffff;
-  border-color: #404bbf;
+  /* border-color: #404bbf; */
   background-color: #404bbf;
+  border: none;
 }
 .modal-text {
   width: 360px;
@@ -757,7 +758,7 @@ h3 {
 }
 
 .review-form-checkbox-wrapper {
-  margin-bottom: 24px;
+  margin-bottom: 8px;
 }
 .review-form-btn {
   display: block;
